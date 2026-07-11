@@ -240,23 +240,11 @@ experiments/summary/
 ## 7. Citation
 
 ```bibtex
-@inproceedings{
-wang2026spherical,
+@inproceedings{wang2026spherical,
 title={Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis},
 author={Ying Wang and Guoheng Huang and Chan-Tong Lam and Xiaochen Yuan},
 booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
 url={https://openreview.net/forum?id=czRY4Qj153}
 }
-
-@inproceedings{wang2026spa,
-  title     = {Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis},
-  author    = {Wang, Ying and Huang, Guoheng and Lam, Chan-Tong and Yuan, Xiaochen},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
-  series    = {Proceedings of Machine Learning Research},
-  volume    = {306},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=czRY4Qj153}
-}
-
 ```
