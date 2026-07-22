@@ -1,4 +1,4 @@
-# Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis
+# Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis (ICML2026)
 
 This repository adds Spherical Procrustes Alignment (SPA) to the official PAFA codebase for ICBHI 2017 respiratory sound classification.
 
